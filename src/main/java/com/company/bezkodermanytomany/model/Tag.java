@@ -9,6 +9,8 @@ import lombok.Setter;
 
 import java.util.HashSet;
 import java.util.Set;
+//– @Id annotation is for the primary key.
+//– @GeneratedValue annotation is used to define generation strategy for the primary key.
 
 @NoArgsConstructor
 @AllArgsConstructor
